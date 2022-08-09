@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects\ConFPS\ConFPS\Source.cpp(223,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects\ConFPS\ConFPS\Source.cpp(232,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConFPS.vcxproj -> D:\Projects\ConFPS\x64\Debug\ConFPS.exe
